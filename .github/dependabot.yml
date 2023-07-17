@@ -1,0 +1,20 @@
+version: 2
+updates:
+  - directory: /
+    open-pull-requests-limit: 5
+    package-ecosystem: pip
+    schedule:
+      day: friday
+      interval: weekly
+  - directory: /
+    open-pull-requests-limit: 5
+    package-ecosystem: docker
+    schedule:
+      day: friday
+      interval: weekly
+  - directory: /
+    open-pull-requests-limit: 5
+    package-ecosystem: github-actions
+    schedule:
+      day: friday
+      interval: weekly
