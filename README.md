@@ -2,6 +2,8 @@
 
 `ZUTOMOJI_HG`は、プログラミング向けフォント[白源（HackGen）](https://github.com/yuru7/HackGen)と、[ずっと真夜中でいいのに。](https://zutomayo.net/)の[オリジナル文字のフォント](https://zutomayo.net/font/) を合成したフォントです。
 
+![](/docs/zutomoji_hg.jpg)
+
 ずっと真夜中でいいのに。のオリジナル文字（以下、ずとまよ文字とします）を`U+100000`~`U+1000B2`に配置し、ずとまよ文字を普段遣いしやすくしています。
 また、ベースとしている白源（HackGen）は、Nerd Fontsを追加合成している`HackGen NF`、`HackGen35 NF`を使用し、多くのアイコンフォントを使用できます。
 
@@ -55,7 +57,7 @@ ZUTOMOJI_HG35C-Bold.ttf    ZUTOMOJI_HG35C-Regular.ttf ZUTOMOJI_HGC-Bold.ttf     
 Unicode 私用領域の`U+100000`~`U+1000B2`に配置しています。
 各ずとまよ文字のコードポイントは以下の画像を参照ください。
 
-![](/docs/zutomoji.jpg)
+![](/docs/zutomoji_list.jpg)
 
 ## Font License
 
