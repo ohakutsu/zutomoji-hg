@@ -42,7 +42,7 @@ Dockerを使って合成できます。
 
 ```console
 $ docker build . -t zutomoji-hg
-$ docker run -it --rm -v "${PWD}:/zutomoji-hg" zutomoji-hg
+$ docker run --rm -v "${PWD}:/zutomoji-hg" zutomoji-hg
 ```
 
 実行が完了すると、`ZUTOMOJI_HG*`のフォントファイルが生成されます。
